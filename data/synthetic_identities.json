@@ -1,0 +1,7 @@
+[
+  {"identity_id":"usr-fin-admin-01","identity_type":"user","privileged":true,"mfa_enabled":false,"enabled":true,"last_signin_days":4,"credential_age_days":70,"owner":"Finance IT","standing_privilege":true,"break_glass":false},
+  {"identity_id":"svc-reporting-01","identity_type":"service","privileged":true,"mfa_enabled":false,"enabled":true,"last_signin_days":2,"credential_age_days":365,"owner":"Data Platform","standing_privilege":true,"break_glass":false},
+  {"identity_id":"usr-legacy-07","identity_type":"user","privileged":false,"mfa_enabled":true,"enabled":true,"last_signin_days":130,"credential_age_days":210,"owner":"","standing_privilege":false,"break_glass":false},
+  {"identity_id":"wrk-api-prod-02","identity_type":"workload","privileged":false,"mfa_enabled":false,"enabled":true,"last_signin_days":1,"credential_age_days":240,"owner":"API Engineering","standing_privilege":false,"break_glass":false},
+  {"identity_id":"usr-breakglass-01","identity_type":"user","privileged":true,"mfa_enabled":false,"enabled":true,"last_signin_days":20,"credential_age_days":30,"owner":"Identity Operations","standing_privilege":true,"break_glass":true}
+]
